@@ -22,3 +22,8 @@
 </div>
 
 <br><br><br>
+
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height=50px> </h2>
+<a href = 'https://www.linkedin.com/in/sachin-gupta-4aa151222/'> <img width = '40px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> &nbsp;
+<a href="https://www.facebook.com/profile.php?id=100011591354750"> <img align="center" src="https://img.icons8.com/fluency/344/facebook-new.png" width="50px" height="50px"> </a> &nbsp;
+<a href = 'https://www.instagram.com/_.sachin_.gupta/?hl=en'> <img width = '50px' align= 'center' src="https://img.icons8.com/fluency/344/instagram-new.png"/></a> &nbsp;
