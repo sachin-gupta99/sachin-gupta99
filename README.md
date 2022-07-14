@@ -35,3 +35,10 @@
 <h3>Coding Platform Links: </h3>
 <a href = 'https://leetcode.com/sachin_gupta2007/'> <img width = '32px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/141px-LeetCode_logo_white_no_text.svg.png?20200120234911"/></a> &nbsp;
 <a href = 'https://www.hackerrank.com/sachin_gupta99'> <img width = '50px' align= 'center' src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg"/></a> &nbsp;
+
+<br>
+
+<img src="https://cdn-icons.flaticon.com/png/512/512/premium/512716.png?token=exp=1657832306~hmac=c2d02938a93542e1d909a9ed9c2256ab" width="1100px" align="center" height="30px">
+
+<p align="center"><b> <a href="https://drive.google.com/file/d/1SQtyhAeA8koKYFTUdNTMlWTlSiJ62yRx/view?usp=sharing"> Download Resume </a> </b></p>
+<img src="https://cdn-icons.flaticon.com/png/512/512/premium/512716.png?token=exp=1657832306~hmac=c2d02938a93542e1d909a9ed9c2256ab" width="1100px" align="center" height="30px">
