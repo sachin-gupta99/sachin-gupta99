@@ -50,6 +50,6 @@
 
 <img src="https://cdn-icons.flaticon.com/png/512/512/premium/512716.png?token=exp=1657832306~hmac=c2d02938a93542e1d909a9ed9c2256ab" width="1100px" align="center" height="30px">
 
-<p align="center"><b> <a href="https://drive.google.com/file/d/1SQtyhAeA8koKYFTUdNTMlWTlSiJ62yRx/view?usp=sharing"> Download Resume </a> </b></p>
+<p align="center"><b> <a href="https://drive.google.com/file/d/148DLzxjqp839URK8ovbGiB-aMxqEhIaq/view?usp=sharing"> Download Resume </a> </b></p>
 
 <img src="https://cdn-icons.flaticon.com/png/512/512/premium/512716.png?token=exp=1657832306~hmac=c2d02938a93542e1d909a9ed9c2256ab" width="1100px" align="center" height="30px">
