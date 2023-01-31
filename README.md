@@ -53,6 +53,6 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1100px" align="center" height="15px">
 
-<p align="center"><b> <a href="https://drive.google.com/file/d/1aE8UzBQf2Y_YSCi2DLb6O8nQaQB1L7Xg/view?usp=sharing"> Download Resume </a> </b></p>
+<p align="center"><b> <a href="https://drive.google.com/file/d/1B0XJ-wjU-yrUdJZnsHxNBfSFlUsuMDnU/view?usp=share_link"> Download Resume </a> </b></p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1100px" align="center" height="15px">
