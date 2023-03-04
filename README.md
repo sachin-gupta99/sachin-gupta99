@@ -11,23 +11,22 @@
 <h2> Skills & Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 <div>
-  <div>
-<a href= 'https://docs.microsoft.com/en-us/cpp/cpp/?view=msvc-170' target="_blank"> <img width ='40px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a> &nbsp;
-<a href= 'https://docs.oracle.com/en/java/' > <img width ='40px' height='40px' align='left' src ='https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png'> </a> &nbsp;
-<a href="https://docs.python.org/3/"> <img width ='40px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a> &nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img width ='40px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a> &nbsp;
-<a href= 'https://developer.mozilla.org/en-US/docs/Web/CSS'> <img width ='40px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a> &nbsp;
-<a href= 'https://developer.mozilla.org/en-US/docs/Web/JavaScript' > <img width ='40px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a> &nbsp;
-<a href= 'https://git-scm.com/doc' > <img width ='40px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a> &nbsp;
-<a href="https://nodejs.org/en/docs/" > <img src="https://img.icons8.com/color/344/nodejs.png" width="50px" align='left'> </a> &nbsp;
-    <a href="https://nodejs.org/en/docs/" > <img src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" width="50px" align='left'> </a> &nbsp;
-    <a href="https://reactjs.org/docs/getting-started.html"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="40px" align='left'> </a>
-<a href="https://www.mongodb.com/docs/manual"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/mongodb_original_wordmark_logo_icon_146425.png" width="40px" align='left'> </a>
-    <a href="https://firebase.google.com/"> <img src="https://cdn.iconscout.com/icon/free/png-256/firebase-3521427-2944871.png?f=webp&w=256" width="40px" align='left' /> </a>
-  </div>
-  <div>
-    <img width="300px" align='right' alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-  </div>
+  <a href= 'https://docs.microsoft.com/en-us/cpp/cpp/?view=msvc-170' target="_blank"> <img width ='40px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg' alt="C++"> </a> &nbsp;
+<a href= 'https://docs.oracle.com/en/java/' > <img width ='40px' height='40px' align='left' src ='https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png' alt="Java"> </a> &nbsp;
+<a href="https://docs.python.org/3/"> <img width ='40px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg' alt="Python"> </a> &nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img width ='40px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg' alt="HTML"> </a> &nbsp;
+<a href= 'https://developer.mozilla.org/en-US/docs/Web/CSS'> <img width ='40px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg' alt="CSS"> </a> &nbsp;
+<a href= 'https://developer.mozilla.org/en-US/docs/Web/JavaScript' > <img width ='40px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg' alt="JavaScript"> </a> &nbsp;
+<a href= 'https://git-scm.com/doc' > <img width ='40px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg' alt="Git"> </a> &nbsp;
+   <a href="https://docs.microsoft.com/en-us/sql/?view=sql-server-ver16" > <img src="https://www.freeiconspng.com/uploads/sql-database-icon-png-17.png" width="40px" align='left'> </a>&nbsp;
+    <br><br><br>
+  <a href="https://www.mongodb.com/docs/manual"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/mongodb_original_wordmark_logo_icon_146425.png" alt="MongoDB" width="40px" align='left'> </a> &nbsp;
+  <a href="ttps://expressjs.com/" > <img src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" alt="ExpressJS" width="50px" align='left'> </a> &nbsp; &nbsp;
+  <a href="https://reactjs.org/docs/getting-started.html"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="ReactJS" width="40px" align='left'> </a> &nbsp;
+<a href="https://nodejs.org/en/docs/" > <img src="https://img.icons8.com/color/344/nodejs.png" alt="NodeJS" width="50px" align='left'> </a> &nbsp;
+    <a href="https://firebase.google.com/"> <img src="https://cdn.iconscout.com/icon/free/png-256/firebase-3521427-2944871.png?f=webp&w=256" alt="Firebase" width="40px" align='left' /> </a> &nbsp;
+   
+  <img width="300px" align='right' alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" ></img>
 </div>
 
 <br><br><br>
