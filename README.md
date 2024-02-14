@@ -26,6 +26,7 @@
 <a href="https://nodejs.org/en/docs/" > <img src="https://img.icons8.com/color/344/nodejs.png" alt="NodeJS" width="50px" align='left'> </a> &nbsp;
     <a href="https://firebase.google.com/"> <img src="https://cdn.iconscout.com/icon/free/png-256/firebase-3521427-2944871.png?f=webp&w=256" alt="Firebase" width="40px" align='left' /> </a> &nbsp;
     <a href="https://spring.io/projects/spring-boot"> <img src="https://www.svgrepo.com/show/376350/spring.svg" alt="Springboot" width="40px" align="left" /> </a> &nbsp;
+    <a href="https://www.thymeleaf.org/"> <img src="https://www.thymeleaf.org/images/thymeleaf.png" alt="Springboot" width="40px" align="left" /> </a> &nbsp;
    
   <img width="300px" align='right' alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" ></img>
 </div>
