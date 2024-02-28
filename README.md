@@ -55,10 +55,10 @@
 
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sachin-gupta99&custom_title=Sachin's%20GitHub%20statistics&show_icons=true&theme=react&include_all_commits=true&rank_icon=percentile" alt="sachin-gupta99" align="center"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sachin-gupta99&custom_title=Sachin's%20GitHub%20statistics&show_icons=true&theme=react&include_all_commits=true&rank_icon=percentile" alt="sachin-gupta99" align="left"/>
 
 <!--<a href="https://github.com/sachin-gupta99/github-readme-stats"><img alt="Sachin Gupta Github Stats" src="https://github-readme-stats.vercel.app/api?username=sachin-gupta99&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachin-gupta99&layout=compact&langs_count=8&card_width=320&theme=react" />
+<img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachin-gupta99&layout=compact&langs_count=8&card_width=320&theme=react" />
 </div>
 <!--<a href="https://github.com/sachin-gupta99/github-readme-stats" align="right"><img alt="Sachin Gupta Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-gupta99&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"  /></a> -->
 
