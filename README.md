@@ -3,9 +3,12 @@
 <h1 align="center">Hi there <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="40px" height="40px">, I'm Sachin Gupta</h1>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sachin-gupta99&label=Profile%20views&color=0e75b6&style=flat" alt="sachin_gupta99" /> </p>
 
-<h3 align="center">A coding enthusiast and a passionate Web Developer from India.</h3>
+<h3 align="center">A coding enthusiast and a passionate Web Developer</h3>
 
-<p align="center"> <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 150px height=150px> </p>
+<div align="center">
+  <h3> <img src="https://media.giphy.com/media/3o7TKz5vVU8h2LWzzy/giphy.gif" width="50px"> About Me </h3>
+  <p> I am a final year student at <a href="https://nitw.ac.in/"> National Institute of Technology Warangal </a> pursuing Master of Computer Applications (MCA). Passionate about continuous learning and adept at adapting to diverse technologies and domains. I thrive on exploring cutting-edge innovations, applying them to address practical challenges. Known for swift assimilation of knowledge and a collaborative approach, complemented by effective communication skills.</p>
+</div>
 
 <!--- Skills --->
 <h2> Skills & Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
