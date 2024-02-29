@@ -12,7 +12,7 @@
   <a href="https://app.daily.dev/tharunbalaji31"><img src="https://api.daily.dev/devcards/318751f5fd804e11b8e51086a1d06e66.png?r=ard" width="32%" alt="Tharun Balaji's Dev Card" align="right" /></a>
 </div> -->
   
-I am a final year student at <a href="https://nitw.ac.in/"> National Institute of Technology Warangal </a> <br>pursuing Master of Computer Applications (MCA). Passionate about continuous learning and adept at <br> adapting to diverse technologies and domains. I thrive on exploring cutting-edge innovations, applying them to address practical challenges. Known for swift assimilation of knowledge and a collaborative approach, complemented by effective communication skills. | <a href="https://app.daily.dev/sachin_gupta99"><img src="https://api.daily.dev/devcards/v2/AVcfGEfCNBWvTvf1Ztwt9.png?r=znj&type=default" width="400" alt="Sachin Gupta's Dev Card"/></a>
+I am a final year student at <a href="https://nitw.ac.in/"> National Institute of Technology Warangal </a> <br> pursuing Master of Computer Applications (MCA). Passionate about continuous learning and adept <br> at adapting to diverse technologies and domains. I thrive on exploring cutting-edge innovations, <br> applying them to address practical challenges. Known for swift assimilation of knowledge and a collaborative approach, complemented by effective communication skills. | <a href="https://app.daily.dev/sachin_gupta99"><img src="https://api.daily.dev/devcards/v2/AVcfGEfCNBWvTvf1Ztwt9.png?r=ard&type=default" width="400px" alt="Sachin Gupta's Dev Card"/></a>
 --- | --- |
 
 <!--- Skills --->
