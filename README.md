@@ -6,7 +6,7 @@
 <h3 align="center">A coding enthusiast and a passionate Web Developer</h3>
 
 <div>
-  <h3> <img src="https://media.giphy.com/media/3o7TKz5vVU8h2LWzzy/giphy.gif" width="50px"> About Me </h3>
+  <h3> About Me <img src="https://media.tenor.com/_XILED2Kp4kAAAAi/top-hat-top-of-the-morning.gif" width="32px"></h3>
   <!--
   <p align="left" width="200px"> I am a final year student at <a href="https://nitw.ac.in/"> National Institute of Technology Warangal </a> <br>pursuing Master of Computer Applications (MCA). Passionate about continuous learning and adept at <br> adapting to diverse technologies and domains. I thrive on exploring cutting-edge innovations, applying them to address practical challenges. Known for swift assimilation of knowledge and a collaborative approach, complemented by effective communication skills.</p>
   <a href="https://app.daily.dev/tharunbalaji31"><img src="https://api.daily.dev/devcards/318751f5fd804e11b8e51086a1d06e66.png?r=ard" width="32%" alt="Tharun Balaji's Dev Card" align="right" /></a>
@@ -16,7 +16,7 @@ I am a final year student at <a href="https://nitw.ac.in/"> National Institute o
 --- | --- |
 
 <!--- Skills --->
-<h2> Skills & Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> Skills & Tools <img src = "https://media.tenor.com/66ZodQe5LN0AAAAi/99percentdone-sticker.gif" width = 32px> </h2>
 
 <div>
   <a href= 'https://docs.microsoft.com/en-us/cpp/cpp/?view=msvc-170' target="_blank"> <img width ='40px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg' alt="C++"> </a> &nbsp;
@@ -41,7 +41,7 @@ I am a final year student at <a href="https://nitw.ac.in/"> National Institute o
 
 <br><br><br>
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height=50px> </h2>
+<h2> Connect with me <img src='https://media.tenor.com/bvwqwI3nvxMAAAAi/bax-shop-bax.gif' width="32px" height=32px> </h2>
 
 <!-- Social Links -->
 <h3>Social Links: </h3>
