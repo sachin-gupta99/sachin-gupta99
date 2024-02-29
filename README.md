@@ -62,6 +62,16 @@
 </div>
 <!--<a href="https://github.com/sachin-gupta99/github-readme-stats" align="right"><img alt="Sachin Gupta Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-gupta99&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"  /></a> -->
 
+<br><br><br><br><br><br><br><br>
+<div>
+<h4>🏆 Github Trophies</h4>
+
+<a href="https://github.com/sachin-gupta99/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=sachin-gupta99&column=8&theme=gruvbox&no-frame=true"/>
+</a>
+
+</div>
+
 <br>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1100px" align="center" height="15px">
