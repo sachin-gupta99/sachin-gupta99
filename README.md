@@ -54,7 +54,7 @@
 <h2> My GitHub Stats <img src="https://media2.giphy.com/media/CpSl7FVQfShIdDRcVs/giphy.gif?cid=ecf05e473z73wmi2kvbh4m65is94yyexhr12skct7n9l4m63&rid=giphy.gif&ct=g" width="50px"> </h2>
 
 
-<div align="center">
+<div>
 <img src="https://github-readme-stats.vercel.app/api?username=sachin-gupta99&custom_title=Sachin's%20GitHub%20statistics&show_icons=true&theme=react&include_all_commits=true&rank_icon=percentile" alt="sachin-gupta99" align="left" width="400px" height="200px"/>
 
 <!--<a href="https://github.com/sachin-gupta99/github-readme-stats"><img alt="Sachin Gupta Github Stats" src="https://github-readme-stats.vercel.app/api?username=sachin-gupta99&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
@@ -62,15 +62,12 @@
 </div>
 <!--<a href="https://github.com/sachin-gupta99/github-readme-stats" align="right"><img alt="Sachin Gupta Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-gupta99&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"  /></a> -->
 
-<br><br><br><br><br><br><br><br>
-<div>
+<br><br><br><br><br><br><br><br> <br>
 <h4>🏆 Github Trophies</h4>
 
 <a href="https://github.com/sachin-gupta99/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=sachin-gupta99&column=8&theme=gruvbox&no-frame=true"/>
 </a>
-
-</div>
 
 <br>
 
