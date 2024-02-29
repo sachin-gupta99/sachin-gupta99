@@ -80,8 +80,7 @@ I am a final year student at <a href="https://nitw.ac.in/"> National Institute o
 </a>
 
 <h4>📈 Contribution Graph</h4>
-<img width="80%" height="300px" alt="contributions graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sachin-gupta99&theme=react&area=true&hide_border=true" />
-
+<img width="80%" alt="contributions graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sachin-gupta99&theme=react&area=true&hide_border=true" />
 <br>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1100px" align="center" height="15px">
