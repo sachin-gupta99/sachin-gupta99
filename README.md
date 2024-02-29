@@ -38,6 +38,7 @@
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height=50px> </h2>
 
+<!-- Social Links -->
 <h3>Social Links: </h3>
 <a href = 'https://www.linkedin.com/in/sachin-gupta-4aa151222/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> &nbsp;
 <a href="https://www.facebook.com/profile.php?id=100011591354750"> <img align="center" src="https://img.icons8.com/fluency/344/facebook-new.png" width="40px"> </a> &nbsp;
@@ -45,27 +46,30 @@
 <a href="https://twitter.com/sachin_gupta99"> <img align="center" src="https://img.icons8.com/color/344/twitter.png" width="40px"> </a> &nbsp;
 <br><br>
 
+
+<!-- Coding Platform -->
 <h3>Coding Platform Links: </h3>
 <a href = 'https://leetcode.com/sachin_gupta2007/'> <img width = '32px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/141px-LeetCode_logo_white_no_text.svg.png?20200120234911"/></a> &nbsp;
 <a href = "https://www.hackerrank.com/sachin_gupta99"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="45px"></a> &nbsp;
 
 <br>
 
-<h2> My GitHub Stats <img src="https://media2.giphy.com/media/CpSl7FVQfShIdDRcVs/giphy.gif?cid=ecf05e473z73wmi2kvbh4m65is94yyexhr12skct7n9l4m63&rid=giphy.gif&ct=g" width="50px"> </h2>
-
+<!-- GitHub Stats -->
+<h2> My GitHub Stats <img src="https://media.tenor.com/LSHKMiRdLggAAAAi/statistics-trending-up.gif" width="30px" height="30px"> </h2>
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=sachin-gupta99&custom_title=Sachin's%20GitHub%20statistics&show_icons=true&theme=react&include_all_commits=true&rank_icon=percentile" alt="sachin-gupta99" align="left" width="32%" height="30%"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachin-gupta99&layout=compact&langs_count=8&theme=react" width="24%" height="30%" alt="Sachin Gupta's stats" />
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sachin-gupta99&theme=react" alt="sachin-gupta99" width="34%" height="30%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sachin-gupta99&custom_title=Sachin's%20GitHub%20statistics&show_icons=true&theme=react&include_all_commits=true&rank_icon=percentile" alt="sachin-gupta99" align="left" width="32%" height="30%"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachin-gupta99&layout=compact&langs_count=8&theme=react" width="24%" height="30%" alt="Sachin Gupta's stats" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sachin-gupta99&theme=react" alt="sachin-gupta99" width="34%" height="30%" />
 </div>
 
 <!--<a href="https://github.com/sachin-gupta99/github-readme-stats"><img alt="Sachin Gupta Github Stats" src="https://github-readme-stats.vercel.app/api?username=sachin-gupta99&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
 <!--<a href="https://github.com/sachin-gupta99/github-readme-stats" align="right"><img alt="Sachin Gupta Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-gupta99&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"  /></a> -->
 
 <br><br><br><br><br>
-<h4>🏆 Github Trophies</h4>
 
+<!-- Github Trophies -->
+<h4>🏆 Github Trophies</h4>
 <a href="https://github.com/sachin-gupta99/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=sachin-gupta99&column=8&theme=gruvbox&no-frame=true"/>
 </a>
@@ -73,7 +77,5 @@
 <br>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1100px" align="center" height="15px">
-
 <p align="center"><b> <a href="https://drive.google.com/file/d/1FEOZeDpMnoiH96r1kIJaQKhVC25zmuaJ/view?usp=sharing"> Download Resume </a> </b></p>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1100px" align="center" height="15px">
