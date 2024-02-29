@@ -6,7 +6,7 @@
 <h3 align="center">A coding enthusiast and a passionate Web Developer</h3>
 
 <div>
-  <h3 align="center"> <img src="https://media.giphy.com/media/3o7TKz5vVU8h2LWzzy/giphy.gif" width="50px"> About Me </h3>
+  <h3> <img src="https://media.giphy.com/media/3o7TKz5vVU8h2LWzzy/giphy.gif" width="50px"> About Me </h3>
   <!--
   <p align="left" width="200px"> I am a final year student at <a href="https://nitw.ac.in/"> National Institute of Technology Warangal </a> <br>pursuing Master of Computer Applications (MCA). Passionate about continuous learning and adept at <br> adapting to diverse technologies and domains. I thrive on exploring cutting-edge innovations, applying them to address practical challenges. Known for swift assimilation of knowledge and a collaborative approach, complemented by effective communication skills.</p>
   <a href="https://app.daily.dev/tharunbalaji31"><img src="https://api.daily.dev/devcards/318751f5fd804e11b8e51086a1d06e66.png?r=ard" width="32%" alt="Tharun Balaji's Dev Card" align="right" /></a>
@@ -78,6 +78,9 @@ I am a final year student at <a href="https://nitw.ac.in/"> National Institute o
 <a href="https://github.com/sachin-gupta99/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=sachin-gupta99&column=8&theme=gruvbox&no-frame=true"/>
 </a>
+
+<h4>📈 Contribution Graph</h4>
+<img width="80%" height="300px" alt="contributions graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sachin-gupta99&theme=react&area=true&hide_border=true" />
 
 <br>
 
