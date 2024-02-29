@@ -7,8 +7,13 @@
 
 <div align="center">
   <h3> <img src="https://media.giphy.com/media/3o7TKz5vVU8h2LWzzy/giphy.gif" width="50px"> About Me </h3>
-  <p> I am a final year student at <a href="https://nitw.ac.in/"> National Institute of Technology Warangal </a> pursuing Master of Computer Applications (MCA). Passionate about continuous learning and adept at adapting to diverse technologies and domains. I thrive on exploring cutting-edge innovations, applying them to address practical challenges. Known for swift assimilation of knowledge and a collaborative approach, complemented by effective communication skills.</p>
-</div>
+  <!--
+  <p align="left" width="200px"> I am a final year student at <a href="https://nitw.ac.in/"> National Institute of Technology Warangal </a> <br>pursuing Master of Computer Applications (MCA). Passionate about continuous learning and adept at <br> adapting to diverse technologies and domains. I thrive on exploring cutting-edge innovations, applying them to address practical challenges. Known for swift assimilation of knowledge and a collaborative approach, complemented by effective communication skills.</p>
+  <a href="https://app.daily.dev/tharunbalaji31"><img src="https://api.daily.dev/devcards/318751f5fd804e11b8e51086a1d06e66.png?r=ard" width="32%" alt="Tharun Balaji's Dev Card" align="right" /></a>
+</div> -->
+  
+I am a final year student at <a href="https://nitw.ac.in/"> National Institute of Technology Warangal </a> <br>pursuing Master of Computer Applications (MCA). Passionate about continuous learning and adept at <br> adapting to diverse technologies and domains. I thrive on exploring cutting-edge innovations, applying them to address practical challenges. Known for swift assimilation of knowledge and a collaborative approach, complemented by effective communication skills. | <a href="https://app.daily.dev/sachin_gupta99"><img src="https://api.daily.dev/devcards/v2/AVcfGEfCNBWvTvf1Ztwt9.png?r=znj&type=default" width="400" alt="Sachin Gupta's Dev Card"/></a>
+--- | --- |
 
 <!--- Skills --->
 <h2> Skills & Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
