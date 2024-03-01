@@ -18,28 +18,17 @@ I am a final year student at <a href="https://nitw.ac.in/"> National Institute o
 <!--- Skills --->
 <h2> Skills & Tools <img src = "https://media.tenor.com/66ZodQe5LN0AAAAi/99percentdone-sticker.gif" width = 32px> </h2>
 
-<div>
-  <a href= 'https://docs.microsoft.com/en-us/cpp/cpp/?view=msvc-170' target="_blank"> <img width ='40px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg' alt="C++"> </a> &nbsp;
-<a href= 'https://docs.oracle.com/en/java/' > <img width ='40px' height='40px' align='left' src ='https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png' alt="Java"> </a> &nbsp;
-<a href="https://docs.python.org/3/"> <img width ='40px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg' alt="Python"> </a> &nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img width ='40px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg' alt="HTML"> </a> &nbsp;
-<a href= 'https://developer.mozilla.org/en-US/docs/Web/CSS'> <img width ='40px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg' alt="CSS"> </a> &nbsp;
-<a href= 'https://developer.mozilla.org/en-US/docs/Web/JavaScript' > <img width ='40px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg' alt="JavaScript"> </a> &nbsp;
-<a href= 'https://git-scm.com/doc' > <img width ='40px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg' alt="Git"> </a> &nbsp;
-   <a href="https://docs.microsoft.com/en-us/sql/?view=sql-server-ver16" > <img src="https://www.freeiconspng.com/uploads/sql-database-icon-png-17.png" width="40px" align='left'> </a>&nbsp;
-    <br><br><br>
-  <a href="https://www.mongodb.com/docs/manual"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/mongodb_original_wordmark_logo_icon_146425.png" alt="MongoDB" width="40px" align='left'> </a> &nbsp;
-  <a href="ttps://expressjs.com/" > <img src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" alt="ExpressJS" width="50px" align='left'> </a> &nbsp; &nbsp;
-  <a href="https://reactjs.org/docs/getting-started.html"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="ReactJS" width="40px" align='left'> </a> &nbsp;
-<a href="https://nodejs.org/en/docs/" > <img src="https://img.icons8.com/color/344/nodejs.png" alt="NodeJS" width="50px" align='left'> </a> &nbsp;
-    <a href="https://firebase.google.com/"> <img src="https://cdn.iconscout.com/icon/free/png-256/firebase-3521427-2944871.png?f=webp&w=256" alt="Firebase" width="40px" align='left' /> </a> &nbsp;
-    <a href="https://spring.io/projects/spring-boot"> <img src="https://www.svgrepo.com/show/376350/spring.svg" alt="Springboot" width="40px" align="left" /> </a> &nbsp;
-    <a href="https://www.thymeleaf.org/"> <img src="https://www.thymeleaf.org/images/thymeleaf.png" alt="Springboot" width="40px" align="left" /> </a> &nbsp;
-   
-  <img width="300px" align='right' alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" ></img>
-</div>
+<table>
+  
+</table>
 
-<br><br><br>
+| **Programming Languages** | <a href= 'https://docs.microsoft.com/en-us/cpp/cpp/?view=msvc-170' target="_blank"> <img width ='40px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg' alt="C++"> </a> &nbsp;  <a href= 'https://docs.oracle.com/en/java/' > <img width ='40px' height='40px' align='left' src ='https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png' alt="Java"> </a> &nbsp; <a href="https://docs.python.org/3/"> <img width ='40px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg' alt="Python"> </a> &nbsp; <a href= 'https://developer.mozilla.org/en-US/docs/Web/JavaScript' > <img width ='40px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg' alt="JavaScript"> </a> &nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img width ='40px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg' alt="HTML"> </a> &nbsp; | 
+--- | --- |
+| **Development Frameworks** | <a href="https://reactjs.org/docs/getting-started.html"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="ReactJS" width="40px" align='left'> </a> &nbsp; <a href="ttps://expressjs.com/" > <img src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" alt="ExpressJS" width="40px" align='left'> </a> &nbsp; <a href="https://nodejs.org/en/docs/" > <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" alt="NodeJS" width="35px" align='left'> </a> &nbsp; <a href="https://spring.io/projects/spring-boot"> <img src="https://www.svgrepo.com/show/376350/spring.svg" alt="Springboot" width="40px" align="left" /> </a> &nbsp;
+| **Development Tools** | <a href= 'https://developer.mozilla.org/en-US/docs/Web/CSS'> <img width ='40px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg' alt="CSS"> </a> &nbsp; <a href= 'https://git-scm.com/doc' > <img width ='40px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg' alt="Git"> </a> &nbsp;
+| **Databases** | <a href="https://docs.microsoft.com/en-us/sql/?view=sql-server-ver16" > <img src="https://www.freeiconspng.com/uploads/sql-database-icon-png-17.png" width="40px" align='left'> </a>&nbsp; <a href="https://www.mongodb.com/docs/manual"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/mongodb_original_wordmark_logo_icon_146425.png" alt="MongoDB" width="40px" align='left'> </a> &nbsp; <a href="https://firebase.google.com/"> <img src="https://cdn.iconscout.com/icon/free/png-256/firebase-3521427-2944871.png?f=webp&w=256" alt="Firebase" width="40px" align='left' /> </a> &nbsp;
+
+<br>
 
 <h2> Connect with me <img src='https://media.tenor.com/bvwqwI3nvxMAAAAi/bax-shop-bax.gif' width="32px" height=32px> </h2>
 
@@ -66,6 +55,7 @@ I am a final year student at <a href="https://nitw.ac.in/"> National Institute o
   <img src="https://github-readme-stats.vercel.app/api?username=sachin-gupta99&custom_title=Sachin's%20GitHub%20statistics&show_icons=true&theme=react&include_all_commits=true&rank_icon=percentile" alt="sachin-gupta99" align="center" width="32%" height="30%"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachin-gupta99&layout=compact&langs_count=8&theme=react" width="24%" height="30%" alt="Sachin Gupta's stats" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachin-gupta99&theme=react" alt="sachin-gupta99" width="34%" height="30%" />
+  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sachin-gupta99&theme=radical" alt="Al Siam's GitHub Contribution"/> -->
 </div>
 
 <!--<a href="https://github.com/sachin-gupta99/github-readme-stats"><img alt="Sachin Gupta Github Stats" src="https://github-readme-stats.vercel.app/api?username=sachin-gupta99&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
@@ -77,6 +67,8 @@ I am a final year student at <a href="https://nitw.ac.in/"> National Institute o
 <a href="https://github.com/sachin-gupta99/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=sachin-gupta99&column=8&theme=gruvbox&no-frame=true"/>
 </a>
+
+<!-- <img width=500 src="https://github-profile-trophy.vercel.app/?username=sachin-gupta99&theme=monokai&column=3&margin-w=15&margin-h=15"/> -->
 
 <h4>📈 Contribution Graph</h4>
 <img width="80%" alt="contributions graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sachin-gupta99&theme=react&area=true&hide_border=true" />
