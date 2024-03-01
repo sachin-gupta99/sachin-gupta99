@@ -10,6 +10,8 @@
 I am a final year student at <a href="https://nitw.ac.in/"> National Institute of Technology Warangal </a> pursuing Master of Computer Applications (MCA). Passionate about continuous learning and adept at adapting to diverse technologies and domains. I thrive on exploring cutting-edge innovations, applying them to address practical challenges. Known for swift assimilation of knowledge and a collaborative approach, complemented by effective communication skills. | <a href="https://app.daily.dev/sachin_gupta99"><img src="https://api.daily.dev/devcards/v2/AVcfGEfCNBWvTvf1Ztwt9.png?r=ard&type=default" width="1000px" alt="Sachin Gupta's Dev Card"/></a>
 --- | --- |
 
+<br>
+
 <!--
   <p align="left" width="200px"> I am a final year student at <a href="https://nitw.ac.in/"> National Institute of Technology Warangal </a> <br>pursuing Master of Computer Applications (MCA). Passionate about continuous learning and adept at <br> adapting to diverse technologies and domains. I thrive on exploring cutting-edge innovations, applying them to address practical challenges. Known for swift assimilation of knowledge and a collaborative approach, complemented by effective communication skills.</p>
   <a href="https://app.daily.dev/tharunbalaji31"><img src="https://api.daily.dev/devcards/318751f5fd804e11b8e51086a1d06e66.png?r=ard" width="32%" alt="Tharun Balaji's Dev Card" align="right" /></a>
@@ -73,6 +75,7 @@ I am a final year student at <a href="https://nitw.ac.in/"> National Institute o
   <h4> <img width="20px" src="https://github.com/sachin-gupta99/sachin-gupta99/assets/97335790/0c2c2aef-08d6-493e-b916-596fef04c1cf" align="center" /> Last 1 year graph</h4>
   <img width="80%" alt="contribution graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sachin-gupta99&theme=react" />
 
+<br>
 
 <h2> Monkey Type Stats <img src="https://media.tenor.com/7y5bGaEIj9oAAAAM/fast-typing.gif" width="30px" height="30px" align="center" /> </h2>
 <a href="https://monkeytype.com/profile/sachy" align="center">
