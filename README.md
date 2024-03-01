@@ -50,7 +50,7 @@ I am a final year student at <a href="https://nitw.ac.in/"> National Institute o
 
 <!-- GitHub Stats -->
 <div>
-<h2> My GitHub Stats <img src="https://media.tenor.com/LSHKMiRdLggAAAAi/statistics-trending-up.gif" width="30px" height="30px"> </h2>
+<h2> GitHub Stats <img src="https://media.tenor.com/LSHKMiRdLggAAAAi/statistics-trending-up.gif" width="30px" height="30px"> </h2>
   <img src="https://github-readme-stats.vercel.app/api?username=sachin-gupta99&custom_title=Sachin's%20GitHub%20statistics&show_icons=true&theme=react&include_all_commits=true&rank_icon=percentile" alt="sachin-gupta99" align="center" width="32%" height="30%"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachin-gupta99&layout=compact&langs_count=8&theme=react" width="24%" height="30%" alt="Sachin Gupta's stats" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachin-gupta99&theme=react" alt="sachin-gupta99" width="34%" height="30%" />
@@ -73,9 +73,10 @@ I am a final year student at <a href="https://nitw.ac.in/"> National Institute o
   <h4> <img width="20px" src="https://github.com/sachin-gupta99/sachin-gupta99/assets/97335790/0c2c2aef-08d6-493e-b916-596fef04c1cf" align="center" /> Last 1 year graph</h4>
   <img width="80%" alt="contribution graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sachin-gupta99&theme=react" />
 
-<h3>Monkey Type Stats</h3>
-<a href="https://monkeytype.com/profile/sachy">
-   <img src="https://raw.githubusercontent.com/sachin-gupta99/sachin-gupta99/monkeytype-readme/monkeytype-readme-pb.svg" alt="My Monkeytype profile" />
+
+<h2> Monkey Type Stats <img src="https://media.tenor.com/7y5bGaEIj9oAAAAM/fast-typing.gif" width="30px" height="30px" align="center" /> </h2>
+<a href="https://monkeytype.com/profile/sachy" align="center">
+   <img width="300px" align="center" src="https://raw.githubusercontent.com/sachin-gupta99/sachin-gupta99/monkeytype-readme/monkeytype-readme-pb.svg" alt="My Monkeytype profile" />
  </a>
 
 <!-- Resume -->
