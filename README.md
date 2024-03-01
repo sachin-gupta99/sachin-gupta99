@@ -73,6 +73,11 @@ I am a final year student at <a href="https://nitw.ac.in/"> National Institute o
   <h4> <img width="20px" src="https://github.com/sachin-gupta99/sachin-gupta99/assets/97335790/0c2c2aef-08d6-493e-b916-596fef04c1cf" align="center" /> Last 1 year graph</h4>
   <img width="80%" alt="contribution graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sachin-gupta99&theme=react" />
 
+<h3>Monkey Type Stats</h3>
+<a href="https://monkeytype.com/profile/sachy">
+   <img src="https://raw.githubusercontent.com/sachin-gupta99/sachin-gupta99/monkeytype-readme/monkeytype-readme-pb.svg" alt="My Monkeytype profile" />
+ </a>
+
 <!-- Resume -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1100px" align="center" height="15px">
 <p align="center"><b> <a href="https://drive.google.com/file/d/1FEOZeDpMnoiH96r1kIJaQKhVC25zmuaJ/view?usp=sharing"> Download Resume </a> </b></p>
