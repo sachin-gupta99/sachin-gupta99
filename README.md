@@ -3,7 +3,7 @@
 <h1 align="center">Hi there <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="40px" height="40px">, I'm Sachin Gupta</h1>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sachin-gupta99&label=Profile%20views&color=0e75b6&style=plastic" alt="sachin_gupta99" /> </p>
 
-<h3 align="center">A coding enthusiast and a passionate Web Developer</h3>
+<h3 align="center"> A coding enthusiast and a passionate Web Developer </h3>
 
 <h2> About Me <img src="https://media.tenor.com/_XILED2Kp4kAAAAi/top-hat-top-of-the-morning.gif" width="32px"> </h2>
 
