@@ -36,7 +36,8 @@
 <a href="https://www.credly.com/badges/4eaeb407-2a71-4226-a21f-5bfa6ac040c5/public_url"><img src="https://github.com/user-attachments/assets/34020f87-7a51-436d-8f9f-e319c509aba6" width="125px" align='left'/> </a>
 
 <br><br>
-<br><br><br>
+<br><br>
+<br><br>
 
 <!-- Connect with me -->
 <h2> Connect with me <img src='https://media.tenor.com/bvwqwI3nvxMAAAAi/bax-shop-bax.gif' width="32px" height=32px> </h2>
