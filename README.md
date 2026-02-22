@@ -9,7 +9,7 @@
 
 <!-- I am a final year student at <a href="https://nitw.ac.in/"> National Institute of Technology Warangal </a> pursuing Master of Computer Applications (MCA). Passionate about continuous learning and adept at adapting to diverse technologies and domains. I thrive on exploring cutting-edge innovations, applying them to address practical challenges. Known for swift assimilation of knowledge and a collaborative approach, complemented by effective communication skills. --> 
 
-| <ul> <li> 🎓 Masters in Computer Applications (MCA) from <a href="https://www.nitw.ac.in" >NIT Warangal </a></li> <li>🌱 Exploring SpringAI, AWS services, System designs </li>  <li>💬 We can have a conversation about ReactJS, Springboot, redux, JWT or any other related topics.</li> <li>👯 I’m looking for help with Github Actions.</li>  <li>📫 Drop a mail at sachin.gupta.2j99@gmail.com to get in touch.</li> </ul> | <a href="https://app.daily.dev/sachin_gupta99"><img src="https://api.daily.dev/devcards/v2/AVcfGEfCNBWvTvf1Ztwt9.png?r=ard&type=default" width="150px" alt="Sachin Gupta's Dev Card"/></a>
+| <ul> <li> 🎓 Masters in Computer Applications (MCA) from <a href="https://www.nitw.ac.in" >NIT Warangal </a></li> <li>🌱 Exploring SpringAI, AWS services, System designs </li>  <li>💬 We can chat about ReactJS, Springboot, redux, JWT or any other related topics.</li> <li>👯 I’m looking for help with Github Actions.</li>  <li>📫 Drop a mail at sachin.gupta.2j99@gmail.com to get in touch.</li> </ul> | <a href="https://app.daily.dev/sachin_gupta99"><img src="https://api.daily.dev/devcards/v2/AVcfGEfCNBWvTvf1Ztwt9.png?r=ard&type=default" width="150px" alt="Sachin Gupta's Dev Card"/></a>
 | :--- | :--- |
 
 <br>
