@@ -65,8 +65,8 @@
 <!-- GitHub Stats -->
 <div>
 <h2> GitHub Stats <img src="https://media.tenor.com/LSHKMiRdLggAAAAi/statistics-trending-up.gif" width="30px" height="30px"> </h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=sachin-gupta99&custom_title=Sachin's%20GitHub%20statistics&show_icons=true&theme=react&include_all_commits=true&rank_icon=percentile" alt="sachin-gupta99" align="center" width="32%" height="30%"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachin-gupta99&layout=compact&langs_count=8&theme=react" width="24%" height="30%" alt="Sachin Gupta's stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=sachin-gupta99&custom_title=Sachin's%20GitHub%20statistics&show_icons=true&theme=react&include_all_commits=true&rank_icon=percentile" alt="sachin-gupta99" align="center" width="32%" height="30%"/>
+  <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=sachin-gupta99&layout=compact&langs_count=8&theme=react" width="24%" height="30%" alt="Sachin Gupta's stats" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachin-gupta99&theme=react" alt="sachin-gupta99" width="34%" height="30%" />
 </div>
 <!--<a href="https://github.com/sachin-gupta99/github-readme-stats"><img alt="Sachin Gupta Github Stats" src="https://github-readme-stats.vercel.app/api?username=sachin-gupta99&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
@@ -75,7 +75,7 @@
 <!-- Github Trophies -->
 <h3>🏆 Github Trophies</h3>
 <a href="https://github.com/sachin-gupta99/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=sachin-gupta99&column=8&theme=gruvbox&no-frame=true"/>
+  <img width=800 src="https://github-profile-trophy-kannan.vercel.app/?username=sachin-gupta99&column=8&theme=gruvbox&no-frame=true"/>
 </a>
 <!-- <img width=500 src="https://github-profile-trophy.vercel.app/?username=sachin-gupta99&theme=monokai&column=3&margin-w=15&margin-h=15"/> -->
 
