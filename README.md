@@ -57,7 +57,7 @@
   <img width=800 src="https://github-profile-trophy-kannan.vercel.app/?username=sachin-gupta99&column=8&theme=gruvbox&no-frame=true"/>
 </a>
 <!-- Contribution Graph -->
-### 📈 Contribution Graphs</h3>
+<h3>📈 Contribution Graphs</h3>
   <h4> <img width="20px" src="https://cdn-icons-png.flaticon.com/512/6195/6195803.png" align="center" /> Last 30 days graph</h4>
   <img width="70%" alt="contributions graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sachin-gupta99&theme=react&area=true&hide_border=true" />
   
