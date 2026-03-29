@@ -7,25 +7,18 @@
 
 <h2> About Me <img src="https://media.tenor.com/_XILED2Kp4kAAAAi/top-hat-top-of-the-morning.gif" width="32px"> </h2>
 
-<!-- I am a final year student at <a href="https://nitw.ac.in/"> National Institute of Technology Warangal </a> pursuing Master of Computer Applications (MCA). Passionate about continuous learning and adept at adapting to diverse technologies and domains. I thrive on exploring cutting-edge innovations, applying them to address practical challenges. Known for swift assimilation of knowledge and a collaborative approach, complemented by effective communication skills. --> 
-
-| <ul> <li> 💻 Working as a Java Full Stack Developer in a US-based Investment banking firm. </li> <li> 🎓 Masters in Computer Applications (MCA) from <a href="https://www.nitw.ac.in" >NIT Warangal </a></li> <li>🌱 Exploring SpringAI, AWS services, System designs </li>  <li>💬 We can chat about ReactJS, Springboot, redux, JWT or any other related topics.</li> <li>👯 I’m looking for help with Github Actions.</li>  <li>📫 Drop a mail at sachin.gupta.2j99@gmail.com to get in touch.</li> </ul> | <a href="https://app.daily.dev/sachin_gupta99"><img src="https://api.daily.dev/devcards/v2/AVcfGEfCNBWvTvf1Ztwt9.png?r=ard&type=default" width="150px" alt="Sachin Gupta's Dev Card"/></a>
+| <ul> <li> 💻 Java Full Stack Developer at a US-based Investment Banking firm, building scalable enterprise applications. </li> <li> 🎓 Masters in Computer Applications (MCA) from <a href="https://www.nitw.ac.in" >NIT Warangal </a></li> <li>🌱 Currently diving deeper into SpringAI, AWS services, and System Design patterns. </li>  <li>💬 Happy to chat about ReactJS, Spring Boot, Redux, JWT, or anything full-stack.</li> <li>🚀 Passionate about clean code, CI/CD pipelines, and building reliable systems.</li>  <li>📫 Reach me at sachin.gupta.2j99@gmail.com</li> </ul> | <a href="https://app.daily.dev/sachin_gupta99"><img src="https://api.daily.dev/devcards/v2/AVcfGEfCNBWvTvf1Ztwt9.png?r=ard&type=default" width="150px" alt="Sachin Gupta's Dev Card"/></a>
 | :--- | :--- |
 
 <br>
 
-<!--
-  <p align="left" width="200px"> I am a final year student at <a href="https://nitw.ac.in/"> National Institute of Technology Warangal </a> <br>pursuing Master of Computer Applications (MCA). Passionate about continuous learning and adept at <br> adapting to diverse technologies and domains. I thrive on exploring cutting-edge innovations, applying them to address practical challenges. Known for swift assimilation of knowledge and a collaborative approach, complemented by effective communication skills.</p>
-  <a href="https://app.daily.dev/tharunbalaji31"><img src="https://api.daily.dev/devcards/318751f5fd804e11b8e51086a1d06e66.png?r=ard" width="32%" alt="Tharun Balaji's Dev Card" align="right" /></a>
-</div> -->
-
 <!--- Skills --->
 <h2> Skills & Tools <img src = "https://media.tenor.com/66ZodQe5LN0AAAAi/99percentdone-sticker.gif" width = 32px> </h2>
 
-| <h3>Programming Languages</h3> | <a href= 'https://docs.microsoft.com/en-us/cpp/cpp/?view=msvc-170' target="_blank"> <img width ='40px' align='left' src ='https://skillicons.dev/icons?i=cpp' alt="C++"> </a> &nbsp;  <a href= 'https://docs.oracle.com/en/java/' > <img width ='40px' height='40px' align='left' src ='https://skillicons.dev/icons?i=java' alt="Java"> </a> &nbsp; <a href="https://docs.python.org/3/"> <img width ='40px' align='left' src ='https://skillicons.dev/icons?i=py' alt="Python"> </a> &nbsp; <a href= 'https://developer.mozilla.org/en-US/docs/Web/JavaScript' > <img width ='40px' align='left' src ='https://skillicons.dev/icons?i=js' alt="JavaScript"> </a> &nbsp; <a href= 'https://developer.mozilla.org/en-US/docs/Web/JavaScript' > <img width ='40px' align='left' src ='https://skillicons.dev/icons?i=ts' alt="JavaScript"> </a> &nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img width ='40px' align='left' src ='https://skillicons.dev/icons?i=html' alt="HTML"> </a> &nbsp; | 
+| <h3>Programming Languages</h3> | <a href= 'https://docs.microsoft.com/en-us/cpp/cpp/?view=msvc-170' target="_blank"> <img width ='40px' align='left' src ='https://skillicons.dev/icons?i=cpp' alt="C++"> </a> &nbsp;  <a href= 'https://docs.oracle.com/en/java/' > <img width ='40px' height='40px' align='left' src ='https://skillicons.dev/icons?i=java' alt="Java"> </a> &nbsp; <a href="https://docs.python.org/3/"> <img width ='40px' align='left' src ='https://skillicons.dev/icons?i=py' alt="Python"> </a> &nbsp; <a href= 'https://developer.mozilla.org/en-US/docs/Web/JavaScript' > <img width ='40px' align='left' src ='https://skillicons.dev/icons?i=js' alt="JavaScript"> </a> &nbsp; <a href= 'https://www.typescriptlang.org/docs/' > <img width ='40px' align='left' src ='https://skillicons.dev/icons?i=ts' alt="TypeScript"> </a> &nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img width ='40px' align='left' src ='https://skillicons.dev/icons?i=html' alt="HTML"> </a> &nbsp; | 
 | :--- | :--- |
-| <h3>Development Frameworks</h3> | <a href="https://reactjs.org/docs/getting-started.html"> <img src="https://skillicons.dev/icons?i=react" alt="ReactJS" width="40px" align='left'> </a> &nbsp; <a href="https://spring.io/projects/spring-boot"> <img src="https://skillicons.dev/icons?i=spring" alt="Springboot" width="40px" align="left" /> </a>  &nbsp; <a href="ttps://expressjs.com/" > <img src="https://skillicons.dev/icons?i=express" alt="ExpressJS" width="40px" align='left'> </a> &nbsp; <a href="https://nodejs.org/en/docs/" > <img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS" width="40px" align='left'> </a> &nbsp;
-| <h3>Significant libraries</h3> | <a href="https://jwt.io/introduction"> <img src="https://miro.medium.com/v2/resize:fit:400/0*eeeO936i7XECDRzV.png" alt="JWT" width="40px" align="left" /> </a> &nbsp; <a href="https://redux.js.org/"> <img src="https://skillicons.dev/icons?i=redux" alt="JWT" width="40px" align="left" /> </a> &nbsp; </a> &nbsp; <a href="https://www.chartjs.org/docs/latest/"> <img src="https://avatars.githubusercontent.com/u/10342521?s=280&v=4" alt="JWT" width="40px" align="left" /> </a> &nbsp; <a href="https://reactrouter.com/en/main"> <img src="https://pics.freeicons.io/uploads/icons/png/9267873881551942642-512.png" alt="RRD" width="40px" align="left" /> </a> &nbsp; <a href="https://mongoosejs.com/"> <img src="https://avatars.githubusercontent.com/u/7552965?s=280&v=4" alt="RRD" width="40px" align="left" /> </a> &nbsp; 
+| <h3>Development Frameworks</h3> | <a href="https://reactjs.org/docs/getting-started.html"> <img src="https://skillicons.dev/icons?i=react" alt="ReactJS" width="40px" align='left'> </a> &nbsp; <a href="https://spring.io/projects/spring-boot"> <img src="https://skillicons.dev/icons?i=spring" alt="Springboot" width="40px" align="left" /> </a>  &nbsp; <a href="https://expressjs.com/" > <img src="https://skillicons.dev/icons?i=express" alt="ExpressJS" width="40px" align='left'> </a> &nbsp; <a href="https://nodejs.org/en/docs/" > <img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS" width="40px" align='left'> </a> &nbsp;
+| <h3>Libraries & Ecosystem</h3> | <a href="https://jwt.io/introduction"> <img src="https://miro.medium.com/v2/resize:fit:400/0*eeeO936i7XECDRzV.png" alt="JWT" width="40px" align="left" /> </a> &nbsp; <a href="https://redux.js.org/"> <img src="https://skillicons.dev/icons?i=redux" alt="JWT" width="40px" align="left" /> </a> &nbsp; </a> &nbsp; <a href="https://www.chartjs.org/docs/latest/"> <img src="https://avatars.githubusercontent.com/u/10342521?s=280&v=4" alt="Chart.js" width="40px" align="left" /> </a> &nbsp; <a href="https://reactrouter.com/en/main"> <img src="https://pics.freeicons.io/uploads/icons/png/9267873881551942642-512.png" alt="React Router" width="40px" align="left" /> </a> &nbsp; <a href="https://mongoosejs.com/"> <img src="https://avatars.githubusercontent.com/u/7552965?s=280&v=4" alt="Mongoose" width="40px" align="left" /> </a> &nbsp; 
 | <h3>Development Tools</h3> | <a href= 'https://developer.mozilla.org/en-US/docs/Web/CSS'> <img width ='40px' align='left' src ='https://skillicons.dev/icons?i=css' alt="CSS"> </a> &nbsp; <a href= 'https://tailwindcss.com/' > <img width ='40px' align='left' src ='https://skillicons.dev/icons?i=tailwind' alt="Tailwind CSS"> </a> &nbsp; <a href= 'https://git-scm.com/doc' > <img width ='40px' align='left' src ='https://skillicons.dev/icons?i=git' alt="Git"> </a> &nbsp; <a href= 'https://pugjs.org/api/getting-started.html' > <img width ='40px' align='left' src ='https://skillicons.dev/icons?i=pug' alt="Pug"> </a> &nbsp; <a href= 'https://www.thymeleaf.org/documentation.html' > <img width ='40px' align='left' src ='https://www.thymeleaf.org/doc/images/thymeleaf.png' alt="Git"> </a> &nbsp; <a href= 'https://docs.sonarsource.com/sonarcloud/' > <img width ='40px' align='left' src ="https://github.com/user-attachments/assets/4f84f6dc-cdbb-4a64-bd91-c80cad0672b6" /> </a> &nbsp; <a href= 'https://docs.github.com/en/actions' > <img width ='40px' align='left' src ='https://skillicons.dev/icons?i=githubactions' alt="Git"> </a> &nbsp; <a href= 'https://tanstack.com/query/latest' > <img width ='40px' align='left' src ='https://github.com/user-attachments/assets/5d64b48b-8bd9-474e-a6ac-a75f88edf4e1' alt="Git"> </a> &nbsp;
 | <h3>Databases</h3> | <a href="https://docs.microsoft.com/en-us/sql/?view=sql-server-ver16" > <img src="https://skillicons.dev/icons?i=mysql" width="40px" align='left'> </a>&nbsp; <a href="https://www.mongodb.com/docs/manual"> <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40px" align='left'> </a> &nbsp; <a href="https://firebase.google.com/"> <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="40px" align='left' /> </a> &nbsp; <a href="https://www.postgresql.org/"> <img src="https://skillicons.dev/icons?i=postgres" alt="Postgres" width="40px" align='left' /> </a> &nbsp;
 
@@ -47,19 +40,6 @@
 | :-- | :-- 
 | <h3>Coding Platform Links</h3> | <a href = 'https://leetcode.com/sachin_gupta2007/'> <img width = '32px' align= 'center' src="https://github.com/user-attachments/assets/5a0967ff-d3df-4ec7-ab39-6931ed76202f" /></a> &nbsp; <a href = "https://www.hackerrank.com/sachin_gupta99"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="45px"></a> &nbsp;
 
-<!-- Social Links -->
-<!-- <h3>Social Links: </h3>
-<a href = 'https://www.linkedin.com/in/sachin-gupta-4aa151222/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> &nbsp;
-<a href="https://www.facebook.com/profile.php?id=100011591354750"> <img align="center" src="https://img.icons8.com/fluency/344/facebook-new.png" width="40px"> </a> &nbsp;
-<a href = 'https://www.instagram.com/_.sachin_.gupta/?hl=en'> <img width = '40px' align= 'center' src="https://img.icons8.com/fluency/344/instagram-new.png"/></a> &nbsp;
-<a href="https://twitter.com/sachin_gupta99"> <img align="center" src="https://img.icons8.com/color/344/twitter.png" width="40px"> </a> &nbsp;
-<br><br> -->
-
-<!-- Coding Platform -->
- <!-- <h3>Coding Platform Links: </h3>
-<a href = 'https://leetcode.com/sachin_gupta2007/'> <img width = '32px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/141px-LeetCode_logo_white_no_text.svg.png?20200120234911"/></a> &nbsp; -->
-<!-- <a href = "https://www.hackerrank.com/sachin_gupta99"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="45px"></a> &nbsp; -->
-
 <br>
 
 <!-- GitHub Stats -->
@@ -67,9 +47,8 @@
 <h2> GitHub Stats <img src="https://media.tenor.com/LSHKMiRdLggAAAAi/statistics-trending-up.gif" width="30px" height="30px"> </h2>
   <img src="https://github-stats-extended.vercel.app/api?username=sachin-gupta99&custom_title=Sachin's%20GitHub%20statistics&show_icons=true&theme=react&include_all_commits=true&rank_icon=percentile" alt="sachin-gupta99" align="center" width="32%" height="30%"/>
   <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=sachin-gupta99&layout=compact&langs_count=8&theme=react" width="24%" height="30%" alt="Sachin Gupta's stats" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachin-gupta99&theme=react" alt="sachin-gupta99" width="34%" height="30%" />
+  <img align="center" src="https://streak-stats.demolab.com/?user=sachin-gupta99&theme=react" alt="sachin-gupta99" width="34%" height="30%" />
 </div>
-<!--<a href="https://github.com/sachin-gupta99/github-readme-stats"><img alt="Sachin Gupta Github Stats" src="https://github-readme-stats.vercel.app/api?username=sachin-gupta99&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
 <!--<a href="https://github.com/sachin-gupta99/github-readme-stats" align="right"><img alt="Sachin Gupta Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-gupta99&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"  /></a> -->
 
 <!-- Github Trophies -->
@@ -77,8 +56,6 @@
 <a href="https://github.com/sachin-gupta99/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy-kannan.vercel.app/?username=sachin-gupta99&column=8&theme=gruvbox&no-frame=true"/>
 </a>
-<!-- <img width=500 src="https://github-profile-trophy.vercel.app/?username=sachin-gupta99&theme=monokai&column=3&margin-w=15&margin-h=15"/> -->
-
 <!-- Contribution Graph -->
 ### 📈 Contribution Graphs</h3>
   <h4> <img width="20px" src="https://cdn-icons-png.flaticon.com/512/6195/6195803.png" align="center" /> Last 30 days graph</h4>
