@@ -42,6 +42,20 @@
 
 <br>
 
+<!-- Community Contributions -->
+<h2> Community Contributions <img src="https://media.tenor.com/QWmfWBmK1EcAAAAi/globe-world.gif" width="32px"> </h2>
+
+Issues and feature requests raised in popular open-source repositories:
+
+| Repository | Issue | Type | Status |
+| :--- | :--- | :---: | :---: |
+| [spring-projects/spring-ai](https://github.com/spring-projects/spring-ai) | [Add migration guide for switching between model providers](https://github.com/spring-projects/spring-ai/issues/5721) | Docs | Open |
+| [spring-projects/spring-ai](https://github.com/spring-projects/spring-ai) | [Support multi-domain metadata filtering in PgVector queries](https://github.com/spring-projects/spring-ai/issues/5720) | Enhancement | Open |
+| [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) | [Add built-in MongoDB-backed ChatMemoryStore](https://github.com/langchain4j/langchain4j/issues/4830) | Feature | Open |
+| [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) | [Support multi-domain metadata filtering in RAG retrieval](https://github.com/langchain4j/langchain4j/issues/4831) | Feature | Open |
+
+<br>
+
 <!-- GitHub Stats -->
 <div>
 <h2> GitHub Stats <img src="https://media.tenor.com/LSHKMiRdLggAAAAi/statistics-trending-up.gif" width="30px" height="30px"> </h2>
