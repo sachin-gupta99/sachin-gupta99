@@ -69,7 +69,7 @@ Issues and feature requests raised in popular open-source repositories:
 <!-- Github Trophies -->
 <h3>🏆 Github Trophies</h3>
 <a href="https://github.com/sachin-gupta99/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy-kannan.vercel.app/?username=sachin-gupta99&column=8&theme=gruvbox&no-frame=true"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=sachin-gupta99&column=8&theme=gruvbox&no-frame=true"/>
 </a>
 <!-- Contribution Graph -->
 <h3>📈 Contribution Graphs</h3>
