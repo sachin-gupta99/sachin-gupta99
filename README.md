@@ -48,7 +48,7 @@
 </td>
 <td width="35%" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="260" alt="coding animation"/>
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="260" alt="coding animation"/>
 
 </td>
 </tr>
@@ -63,35 +63,51 @@
 
 <table>
 <tr>
-<td width="50%" align="center" valign="top">
-  <a href="https://github.com/sachin-gupta99/FitTrack-Host-UI">
-    <img src="https://opengraph.githubassets.com/1/sachin-gupta99/FitTrack-Host-UI" width="100%" alt="FitTrack Host UI" />
-  </a>
-  <br/><b>FitTrack &mdash; Host UI</b>
-  <br/><sub>Micro-frontend shell for a 4-service Spring Boot fitness platform &middot; React 19 &middot; Module Federation</sub>
+<td width="50%" valign="top">
+
+#### 🏠 &nbsp; [FitTrack &mdash; Host UI](https://github.com/sachin-gupta99/FitTrack-Host-UI)
+
+<img src="https://img.shields.io/github/stars/sachin-gupta99/FitTrack-Host-UI?style=flat-square&logo=github&labelColor=0D1117&color=00D9FF" alt="stars"/> <img src="https://img.shields.io/github/last-commit/sachin-gupta99/FitTrack-Host-UI?style=flat-square&labelColor=0D1117&color=7C3AED" alt="last commit"/>
+
+Micro-frontend **shell** for a 4-service Spring Boot fitness platform. Owns auth, layout, and dynamic remote loading via Module Federation.
+
+<img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/Module_Federation-000?style=flat-square&logo=webpack&logoColor=white" />
+
 </td>
-<td width="50%" align="center" valign="top">
-  <a href="https://github.com/sachin-gupta99/CascadeAI-Orchestrator">
-    <img src="https://opengraph.githubassets.com/1/sachin-gupta99/CascadeAI-Orchestrator" width="100%" alt="CascadeAI Orchestrator" />
-  </a>
-  <br/><b>CascadeAI &mdash; Orchestrator</b>
-  <br/><sub>Spring Boot orchestrator coordinating Python AI agents via Redis Streams &middot; transcripts → code</sub>
+<td width="50%" valign="top">
+
+#### 🤖 &nbsp; [CascadeAI &mdash; Orchestrator](https://github.com/sachin-gupta99/CascadeAI-Orchestrator)
+
+<img src="https://img.shields.io/github/stars/sachin-gupta99/CascadeAI-Orchestrator?style=flat-square&logo=github&labelColor=0D1117&color=00D9FF" alt="stars"/> <img src="https://img.shields.io/github/last-commit/sachin-gupta99/CascadeAI-Orchestrator?style=flat-square&labelColor=0D1117&color=7C3AED" alt="last commit"/>
+
+**Spring Boot orchestrator** coordinating Python AI agents via **Redis Streams**. Turns meeting transcripts into code changes end-to-end.
+
+<img src="https://img.shields.io/badge/Spring_Boot_4-6DB33F?style=flat-square&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Redis_Streams-DC382D?style=flat-square&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/LLM-7C3AED?style=flat-square" />
+
 </td>
 </tr>
 <tr>
-<td width="50%" align="center" valign="top">
-  <a href="https://sachin-gupta99.github.io/Sachin-Dev/">
-    <img src="https://opengraph.githubassets.com/1/sachin-gupta99/Sachin-Dev" width="100%" alt="Sachin-Dev Portfolio" />
-  </a>
-  <br/><b>Sachin-Dev &mdash; 3D Portfolio</b>
-  <br/><sub>Three.js particle systems &middot; Framer Motion &middot; <a href="https://sachin-gupta99.github.io/Sachin-Dev/"><b>Live →</b></a></sub>
+<td width="50%" valign="top">
+
+#### 🌐 &nbsp; [Sachin-Dev &mdash; 3D Portfolio](https://github.com/sachin-gupta99/Sachin-Dev) &middot; [**Live →**](https://sachin-gupta99.github.io/Sachin-Dev/)
+
+<img src="https://img.shields.io/github/stars/sachin-gupta99/Sachin-Dev?style=flat-square&logo=github&labelColor=0D1117&color=00D9FF" alt="stars"/> <img src="https://img.shields.io/github/last-commit/sachin-gupta99/Sachin-Dev?style=flat-square&labelColor=0D1117&color=7C3AED" alt="last commit"/>
+
+**Interactive 3D portfolio** with Three.js particle systems, ambient scenes, and Framer Motion transitions. Deployed on GitHub Pages.
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Three.js-000?style=flat-square&logo=three.js&logoColor=white" /> <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+
 </td>
-<td width="50%" align="center" valign="top">
-  <a href="https://github.com/sachin-gupta99/FitTrack-ai-service">
-    <img src="https://opengraph.githubassets.com/1/sachin-gupta99/FitTrack-ai-service" width="100%" alt="FitTrack AI Service" />
-  </a>
-  <br/><b>FitTrack &mdash; AI Service</b>
-  <br/><sub>Spring AI microservice enriching fitness events via LLM &middot; embeddings &middot; semantic retrieval</sub>
+<td width="50%" valign="top">
+
+#### 🧠 &nbsp; [FitTrack &mdash; AI Service](https://github.com/sachin-gupta99/FitTrack-ai-service)
+
+<img src="https://img.shields.io/github/stars/sachin-gupta99/FitTrack-ai-service?style=flat-square&logo=github&labelColor=0D1117&color=00D9FF" alt="stars"/> <img src="https://img.shields.io/github/last-commit/sachin-gupta99/FitTrack-ai-service?style=flat-square&labelColor=0D1117&color=7C3AED" alt="last commit"/>
+
+**Spring AI microservice** enriching fitness events via LLM. Stores embeddings for semantic retrieval across activities and nutrition logs.
+
+<img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Boot_4-6DB33F?style=flat-square&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square" />
+
 </td>
 </tr>
 </table>
@@ -179,17 +195,6 @@
 </tr>
 </tbody>
 </table>
-
-<br/>
-
-<!-- ========= GITHUB ACTIVITY ========= -->
-<h2>📊 &nbsp; GitHub Activity</h2>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11&height=3&section=header" width="100%" alt=""/>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachin-gupta99&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" alt="activity graph"/>
-</p>
 
 <br/>
 
