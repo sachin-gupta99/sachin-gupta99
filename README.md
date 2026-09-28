@@ -1,12 +1,12 @@
 <!-- ========= HERO BANNER ========= -->
 <a href="https://sachin-gupta99.github.io/Sachin-Dev/">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Sachin%20Gupta&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Java%20Full-Stack%20%C2%B7%20Investment%20Banking%20%C2%B7%20AWS%20%2B%20Spring%20AI&descSize=18&descAlignY=62&descAlign=50&animation=fadeIn" width="100%" alt="Sachin Gupta" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Sachin%20Gupta&fontSize=64&fontColor=ffffff&fontAlignY=42&animation=fadeIn" width="100%" alt="Sachin Gupta" />
 </a>
 
 <!-- ========= ANIMATED TAGLINE ========= -->
 <p align="center">
   <a href="https://sachin-gupta99.github.io/Sachin-Dev/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&width=760&lines=Building+scalable+enterprise+systems+at+a+US+Investment+Bank;Shipping+Spring+Boot+4+microservices+%2B+React+19+micro-frontends;Exploring+AWS%2C+Terraform%2C+and+Spring+AI+agent+orchestration;Turning+meeting+transcripts+into+code+with+CascadeAI" alt="Typing tagline" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&width=800&lines=Java+Full-Stack+Engineer+%C2%B7+US+Investment+Banking;Spring+Boot+4+microservices+%2B+React+19+micro-frontends;Exploring+AWS+%2B+Terraform+%2B+Spring+AI+agent+orchestration;Turning+meeting+transcripts+into+code+with+CascadeAI" alt="Typing tagline" />
   </a>
 </p>
 
@@ -29,7 +29,9 @@
 <br/>
 
 <!-- ========= ABOUT ========= -->
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=6,11&height=50&section=header&text=%20About%20Me&fontColor=ffffff&fontSize=26&fontAlignY=52&fontAlign=6" width="100%" alt="About Me"/>
+<h2>👋 &nbsp; About Me</h2>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11&height=3&section=header" width="100%" alt=""/>
 
 <table>
 <tr>
@@ -55,7 +57,9 @@
 <br/>
 
 <!-- ========= FEATURED PROJECTS ========= -->
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=6,11&height=50&section=header&text=%20Featured%20Projects&fontColor=ffffff&fontSize=26&fontAlignY=52&fontAlign=6" width="100%" alt="Featured Projects"/>
+<h2>🚀 &nbsp; Featured Projects</h2>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11&height=3&section=header" width="100%" alt=""/>
 
 <table>
 <tr>
@@ -95,7 +99,9 @@
 <br/>
 
 <!-- ========= CERTIFICATIONS ========= -->
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=6,11&height=50&section=header&text=%20Certifications&fontColor=ffffff&fontSize=26&fontAlignY=52&fontAlign=6" width="100%" alt="Certifications"/>
+<h2>🏆 &nbsp; Certifications</h2>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11&height=3&section=header" width="100%" alt=""/>
 
 <table align="center">
 <tr>
@@ -117,7 +123,9 @@
 <br/>
 
 <!-- ========= TECH STACK ========= -->
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=6,11&height=50&section=header&text=%20Tech%20Stack&fontColor=ffffff&fontSize=26&fontAlignY=52&fontAlign=6" width="100%" alt="Tech Stack"/>
+<h2>🧰 &nbsp; Tech Stack</h2>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11&height=3&section=header" width="100%" alt=""/>
 
 <p align="center"><b>Backend &middot; Frontend &middot; Cloud &middot; Data</b></p>
 <p align="center">
@@ -130,7 +138,9 @@
 <br/>
 
 <!-- ========= OPEN-SOURCE CONTRIBUTIONS ========= -->
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=6,11&height=50&section=header&text=%20Open-Source%20Contributions&fontColor=ffffff&fontSize=26&fontAlignY=52&fontAlign=6" width="100%" alt="Open Source Contributions"/>
+<h2>🌱 &nbsp; Open-Source Contributions</h2>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11&height=3&section=header" width="100%" alt=""/>
 
 <p align="center"><sub>Issues and feature requests raised in popular open-source repositories</sub></p>
 
@@ -169,7 +179,9 @@
 <br/>
 
 <!-- ========= GITHUB STATS ========= -->
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=6,11&height=50&section=header&text=%20GitHub%20Stats&fontColor=ffffff&fontSize=26&fontAlignY=52&fontAlign=6" width="100%" alt="GitHub Stats"/>
+<h2>📊 &nbsp; GitHub Stats</h2>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11&height=3&section=header" width="100%" alt=""/>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sachin-gupta99&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=percentile&card_width=440" width="49%" alt="stats"/>
@@ -188,7 +200,9 @@
 <br/>
 
 <!-- ========= CONNECT ========= -->
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=6,11&height=50&section=header&text=%20Connect&fontColor=ffffff&fontSize=26&fontAlignY=52&fontAlign=6" width="100%" alt="Connect"/>
+<h2>📬 &nbsp; Connect</h2>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11&height=3&section=header" width="100%" alt=""/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sachin-gupta-4aa151222/"><img src="https://skillicons.dev/icons?i=linkedin" width="44" alt="LinkedIn"/></a>
@@ -202,5 +216,7 @@
   <a href="mailto:sachin.gupta.2j99@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="44" alt="Email"/></a>
 </p>
 
+<br/>
+
 <!-- ========= FOOTER WAVE ========= -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&text=Java%20%2B%20Spring%20%2B%20React%20%C2%B7%20Learning%20AWS%20%2B%20Terraform%20%2B%20Agents&fontSize=18&fontColor=ffffff&fontAlignY=75&animation=fadeIn" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" width="100%" alt="footer"/>
