@@ -48,7 +48,7 @@
 </td>
 <td width="35%" align="center">
 
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="260" alt="coding animation"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="260" alt="coding animation"/>
 
 </td>
 </tr>
@@ -185,12 +185,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sachin-gupta99&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=percentile&card_width=440" width="49%" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sachin-gupta99&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="49%" alt="streak"/>
+  <img src="https://streak-stats.demolab.com?user=sachin-gupta99&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="49%" alt="streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-gupta99&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&card_width=440" width="49%" alt="top languages"/>
-  <img src="https://leetcard.jacoblin.cool/sachin_gupta2007?theme=nord&font=Fira%20Code&ext=heatmap&border=0" width="49%" alt="leetcode"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-gupta99&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&card_width=500" width="55%" alt="top languages"/>
 </p>
 
 <p align="center">
@@ -209,7 +208,7 @@
   &nbsp;
   <a href="https://twitter.com/sachin_gupta99"><img src="https://skillicons.dev/icons?i=twitter" width="44" alt="Twitter"/></a>
   &nbsp;
-  <a href="https://leetcode.com/sachin_gupta2007/"><img src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3628885-3030025.png" width="44" alt="LeetCode"/></a>
+  <a href="https://leetcode.com/sachin_gupta2007/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=0D1117&labelColor=0D1117" height="44" alt="LeetCode"/></a>
   &nbsp;
   <a href="https://www.hackerrank.com/sachin_gupta99"><img src="https://skillicons.dev/icons?i=hackerrank" width="44" alt="HackerRank"/></a>
   &nbsp;
