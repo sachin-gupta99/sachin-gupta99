@@ -63,31 +63,35 @@
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
   <a href="https://github.com/sachin-gupta99/FitTrack-Host-UI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sachin-gupta99&repo=FitTrack-Host-UI&theme=tokyonight&hide_border=true&border_radius=10" alt="FitTrack Host UI" />
+    <img src="https://opengraph.githubassets.com/1/sachin-gupta99/FitTrack-Host-UI" width="100%" alt="FitTrack Host UI" />
   </a>
-  <br/><sub><b>Micro-frontend shell for a 4-service Spring Boot fitness platform</b> &middot; React 19 &middot; Module Federation</sub>
+  <br/><b>FitTrack &mdash; Host UI</b>
+  <br/><sub>Micro-frontend shell for a 4-service Spring Boot fitness platform &middot; React 19 &middot; Module Federation</sub>
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
   <a href="https://github.com/sachin-gupta99/CascadeAI-Orchestrator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sachin-gupta99&repo=CascadeAI-Orchestrator&theme=tokyonight&hide_border=true&border_radius=10" alt="CascadeAI Orchestrator" />
+    <img src="https://opengraph.githubassets.com/1/sachin-gupta99/CascadeAI-Orchestrator" width="100%" alt="CascadeAI Orchestrator" />
   </a>
-  <br/><sub><b>Spring Boot orchestrator coordinating Python AI agents via Redis Streams</b> &middot; turns transcripts → code</sub>
+  <br/><b>CascadeAI &mdash; Orchestrator</b>
+  <br/><sub>Spring Boot orchestrator coordinating Python AI agents via Redis Streams &middot; transcripts → code</sub>
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
   <a href="https://sachin-gupta99.github.io/Sachin-Dev/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sachin-gupta99&repo=Sachin-Dev&theme=tokyonight&hide_border=true&border_radius=10" alt="Sachin-Dev Portfolio" />
+    <img src="https://opengraph.githubassets.com/1/sachin-gupta99/Sachin-Dev" width="100%" alt="Sachin-Dev Portfolio" />
   </a>
-  <br/><sub><b>3D interactive portfolio</b> &middot; Three.js particle systems &middot; <a href="https://sachin-gupta99.github.io/Sachin-Dev/"><b>Live →</b></a></sub>
+  <br/><b>Sachin-Dev &mdash; 3D Portfolio</b>
+  <br/><sub>Three.js particle systems &middot; Framer Motion &middot; <a href="https://sachin-gupta99.github.io/Sachin-Dev/"><b>Live →</b></a></sub>
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
   <a href="https://github.com/sachin-gupta99/FitTrack-ai-service">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sachin-gupta99&repo=FitTrack-ai-service&theme=tokyonight&hide_border=true&border_radius=10" alt="FitTrack AI Service" />
+    <img src="https://opengraph.githubassets.com/1/sachin-gupta99/FitTrack-ai-service" width="100%" alt="FitTrack AI Service" />
   </a>
-  <br/><sub><b>AI microservice enriching fitness events via LLM</b> &middot; Spring AI &middot; embeddings &middot; semantic retrieval</sub>
+  <br/><b>FitTrack &mdash; AI Service</b>
+  <br/><sub>Spring AI microservice enriching fitness events via LLM &middot; embeddings &middot; semantic retrieval</sub>
 </td>
 </tr>
 </table>
@@ -178,22 +182,13 @@
 
 <br/>
 
-<!-- ========= GITHUB STATS ========= -->
-<h2>📊 &nbsp; GitHub Stats</h2>
+<!-- ========= GITHUB ACTIVITY ========= -->
+<h2>📊 &nbsp; GitHub Activity</h2>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11&height=3&section=header" width="100%" alt=""/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sachin-gupta99&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=percentile&card_width=440" width="49%" alt="stats"/>
-  <img src="https://streak-stats.demolab.com?user=sachin-gupta99&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="49%" alt="streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-gupta99&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&card_width=500" width="55%" alt="top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachin-gupta99&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="98%" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachin-gupta99&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" alt="activity graph"/>
 </p>
 
 <br/>
