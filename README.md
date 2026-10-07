@@ -210,8 +210,6 @@ Micro-frontend **shell** for a 4-service Spring Boot fitness platform. Owns auth
   &nbsp;
   <a href="https://leetcode.com/sachin_gupta2007/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/leetcode.svg" width="44" alt="LeetCode"/></a>
   &nbsp;
-  <a href="https://www.hackerrank.com/sachin_gupta99"><img src="https://skillicons.dev/icons?i=hackerrank" width="44" alt="HackerRank"/></a>
-  &nbsp;
   <a href="mailto:sachin.gupta.2j99@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="44" alt="Email"/></a>
 </p>
 
