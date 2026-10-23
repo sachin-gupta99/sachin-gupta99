@@ -217,3 +217,4 @@ Micro-frontend **shell** for a 4-service Spring Boot fitness platform. Owns auth
 
 <!-- ========= FOOTER WAVE ========= -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" width="100%" alt="footer"/>
+<!-- heartbeat: 2026-10-23 -->
